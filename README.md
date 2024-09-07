@@ -103,3 +103,7 @@ The frontend will be accessible at `http://localhost:3000`.
 - PUT `/api/products/{id}:` Update an existing product (Admin only).
 - DELETE `/api/products/{id}:` Delete a product (Admin only).
 
+## Photo
+
+![07 09 2024_11 15 24_REC](https://github.com/user-attachments/assets/f21e3670-5267-4aa1-8c85-9859fa7ea198)
+![07 09 2024_11 19 22_REC](https://github.com/user-attachments/assets/3e77af08-bdbf-4b0a-80b5-6c94cd15d3dd)

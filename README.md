@@ -12,7 +12,7 @@ This is a full-stack e-commerce product management system consisting of a fronte
   - [Frontend Setup](#frontend-setup)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [Images](#image)
+- [Images](#images)
 
 
 ## Features
